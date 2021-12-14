@@ -25,3 +25,8 @@ Por ejemplo:
 Voy a proteger la rama main para que no podáis hacer push a ella.
  * comprobar que no podéis hacer push
  * solicitar un merge request de alguna rama a main
+
+Un par de imágenes de ayuda
+
+![](git_overview.png?raw=true "git 1")
+![](git_overview2.png?raw=true "git 2")
